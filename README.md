@@ -8,15 +8,12 @@ Garbage Collection is when an automatic process, known as a garbage collector, f
 # Variable Typing
 Varibles can be either dynamically typed or statically typed.
 
-Dynamic Typing:
-```bash
-Types are assigned at runtime based on what type of value the variable contains. 
-Therefore, types do not need to be explicitly stated. 
-```
-Static Typing:
-```bash
-Types are assigned at the time of compilation and therefore must be explicitly stated.
-```
+- Dynamic Typing:
+  - Types are assigned at runtime based on what type of value the variable contains. Therefore, types do not need to be explicitly stated. 
+
+- Static Typing:
+  - Types are assigned at the time of compilation and therefore must be explicitly stated.
+
 
 # Entry Point
 The entry point of a program is the point where execution begins, and the program is given access to command line arguments.
