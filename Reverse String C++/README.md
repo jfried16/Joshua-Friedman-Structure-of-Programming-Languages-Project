@@ -45,8 +45,8 @@ exit
 ```
 
 # Garbage Collection in C++
-Garbage collection is not supported in C++. Memory management in C++ is done manually. With the programmer defining dynamic variables and deleting them when they are done being 
-used 
+Garbage collection is not supported in C++. Memory management in C++ is done manually with the programmer allocating space for dynamic variables and deleting them when they are 
+done being used 
 
 # Variable Typing in C++
 Variables in C++ are statically typed. Therefore, the typing of each variable is determined at the time of compilation and must be explicitly stated by the programmer.
