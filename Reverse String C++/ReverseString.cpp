@@ -68,7 +68,7 @@ int main(){
         std::cout << "Input a string to be reversed, or type exit to quit:\n";
 
         // Take the user's input into the dynamically allocated string
-        std::cin >> *ptr;
+        getline(std::cin, *ptr);
 
         if (*ptr != "exit"){
             // Run the function and print the result
