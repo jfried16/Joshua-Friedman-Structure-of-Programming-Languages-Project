@@ -14,10 +14,10 @@ In order to run the program for yourself, follow these steps.
   - Visual Studio Code
     - Version 1.63.0   
    
-   - Mingw-w64
+   - Mingw-w64 
     - To install, watch [this](https://www.youtube.com/watch?v=0HD0pqVtsmw) video 
    
-   - g++
+   - g++ 
     - Version: 11.2.0
 
 # Installation
@@ -25,11 +25,11 @@ In order to run the program for yourself, follow these steps.
  
 # To Run the Code for Yourself
 1. Use g++ to compile the program by typing the following in the terminal:
-```bash
+```
 g++ ReverseString.cpp -o ReverseString
 ```
 2. Run the Program
-```bash
+```
 ./ReverseString
 ```
 
@@ -45,3 +45,6 @@ The reversed string is: esreveR
 Input a string to be reversed, or type exit to quit:
 exit
 ```
+
+# Code Written By
+Joshua Friedman
