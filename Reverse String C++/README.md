@@ -22,11 +22,17 @@ In order to run the program for yourself, follow these steps.
  -  Clone the repo using this link: 
  
 # To Run the Code for Yourself
-1. Use g++ to compile the program by typing the following in the terminal:
+1. Open the folder in Visual studio code by clicking on:
+```
+File
+Open Folder
+Reverse String C++
+```
+2. Open the terminal and use g++ to compile the program by typing the following in the terminal:
 ```
 g++ ReverseString.cpp -o ReverseString
 ```
-2. Run the Program
+3. In the same terminal, use this command to run the Program
 ```
 ./ReverseString
 ```
