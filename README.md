@@ -18,3 +18,5 @@ Depending on the language variables can be either dynamically typed or staticall
 # Entry Point
 The entry point of a program is the point where execution begins, and the program is given access to command line arguments.
 
+# For information about each program
+See the read me files in each folder. 
