@@ -10,7 +10,8 @@ Varibles can be either dynamically typed or statically typed.
 
 Dynamic Typing:
 ```bash
-Types are assigned at runtime based on what type of value the variable contains. Therefore, types do not need to be explicitly stated. 
+Types are assigned at runtime based on what type of value the variable contains. 
+Therefore, types do not need to be explicitly stated. 
 ```
 Static Typing:
 ```bash
