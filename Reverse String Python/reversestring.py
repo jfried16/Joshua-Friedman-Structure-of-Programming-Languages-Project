@@ -23,7 +23,6 @@ def reverseString(str):
     # Print the reverse string
     print("The reversed string is: ")
     print(reversedstr)
-    print("\n")
 
 # Start a loop that lasts until the user
 # inputs the word "exit"
