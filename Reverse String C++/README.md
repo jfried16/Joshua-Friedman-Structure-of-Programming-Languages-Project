@@ -44,5 +44,16 @@ Input a string to be reversed, or type exit to quit:
 exit
 ```
 
+# Garbage Collection in C++
+Garbage collection is not supported in C++. Memory management in C++ is done manually. With the programmer defining dynamic variables and deleting them when they are done being 
+used 
+
+# Variable Typing in C++
+Variables in C++ are statically typed. Therefore, the typing of each variable is determined at the time of compilation and must be explicitly stated by the programmer.
+
+# Entry Point in C++ 
+The programmer must specify the entry point in a C++ program by defining a main function. This main function will serve as the entry point where the program is given access
+to command line prompts.
+
 # Code Written By
 Joshua Friedman
