@@ -1,6 +1,6 @@
 # C++ Reverse String
-This code takes a string as an input from the user and reverses it. The program will continue to reverse user inputted strings until the user types the word "exit". At this point 
-the program will exit. 
+This code takes a string as an input from the user and reverses it. The program will continue to reverse user inputted strings until the user types the word "exit". At this 
+point the program will exit. 
 
 # Getting Started
 In order to run the program for yourself, follow these steps.
@@ -26,6 +26,7 @@ In order to run the program for yourself, follow these steps.
 ```
 File
 Open Folder
+Joshua-Friedman-Structure-of-Programming-Languages-Project
 Reverse String C++
 ```
 2. Open the terminal and use g++ to compile the program by typing the following in the terminal:
