@@ -1,6 +1,6 @@
 # Joshua Friedman Structure of Programming Languages Project
-In this project I wrote code that reversed a given string in both C++ and Python, in order to showcase the differences between them. I focused on three different concepts that 
-showcase the differences between them. They are: Garbage Collection, Variable Typing, and Entry Point.
+In this project I wrote code in both C++ and Python that reversed a string, in order to showcase the differences between C++ and Python. I focused on three different concepts that 
+showcase the differences between them. The concepts are: Garbage Collection, Variable Typing, and Entry Point.
 
 # Garbage Collection
 Garbage Collection is when an automatic process, known as a garbage collector, frees up memory that a program does not reference again.
