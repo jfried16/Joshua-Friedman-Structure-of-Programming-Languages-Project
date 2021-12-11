@@ -11,14 +11,12 @@ In order to run the program for yourself, follow these steps.
     - Build: 19042.1348
     - 64-bit operating system
   
-  - Visual Studio Code
+  - Visual Studio Code (To install, watch [this](https://www.youtube.com/watch?v=r1zCtg_wqCA) video) 
     - Version 1.63.0   
    
-   - Mingw-w64 
-    - To install, watch [this](https://www.youtube.com/watch?v=0HD0pqVtsmw) video 
+   - Mingw-w64 (To install, watch [this](https://www.youtube.com/watch?v=0HD0pqVtsmw) video) 
    
-   - g++ 
-    - Version: 11.2.0
+   - g++ (Version: 11.2.0) (installation instructions included in Mingw-w64 instructions)
 
 # Installation
  -  Clone the repo using this link: 
