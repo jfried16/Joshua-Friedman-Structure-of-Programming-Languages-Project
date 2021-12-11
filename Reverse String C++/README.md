@@ -35,12 +35,13 @@ g++ ReverseString.cpp -o ReverseString
 
 # Output
 The expected output is something similar to this:
-
-> Input a string to be reversed, or type exit to quit:
-> Hello World
-> The reversed string is: dlroW olleH
-> Input a string to be reversed, or type exit to quit:
-> Reverse
-> The reversed string is: esreveR
-> Input a string to be reversed, or type exit to quit:
-> exit
+```
+Input a string to be reversed, or type exit to quit:
+Hello World
+The reversed string is: dlroW olleH
+Input a string to be reversed, or type exit to quit:
+Reverse
+The reversed string is: esreveR
+Input a string to be reversed, or type exit to quit:
+exit
+```
