@@ -15,8 +15,7 @@ In order to run the program for yourself, follow these steps.
     - Version 1.63.0   
   
   -  Python (To install, watch [this](https://www.youtube.com/watch?v=dNFgRUD2w68) video)
-    
-    - Version 3.10.1 
+      -  Version 3.10.1 
 
 # Installation
  -  Clone the repo using this link: 
