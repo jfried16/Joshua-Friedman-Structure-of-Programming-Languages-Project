@@ -18,7 +18,7 @@ In order to run the program for yourself, follow these steps.
       -  Version 3.10.1 
 
 # Installation
- -  Clone the repo using this link: 
+ -  Clone the repo using this link: https://github.com/jfried16/Joshua-Friedman-Structure-of-Programming-Languages-Project.git 
  
 # To Run the Code for Yourself
 1. Open the folder in Visual Studio Code by clicking on:
