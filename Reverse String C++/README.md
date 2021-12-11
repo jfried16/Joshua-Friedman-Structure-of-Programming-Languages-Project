@@ -11,7 +11,7 @@ In order to run the program for yourself, follow these steps.
     - Build: 19042.1348
     - 64-bit operating system
   
-  - Visual Studio Code (To install, watch [this](https://www.youtube.com/watch?v=r1zCtg_wqCA) video) 
+  - Visual Studio Code (To install, watch [this](https://youtu.be/r1zCtg_wqCA) video) 
     - Version 1.63.0   
    
    - Mingw-w64 (To install, watch [this](https://www.youtube.com/watch?v=0HD0pqVtsmw) video) 
