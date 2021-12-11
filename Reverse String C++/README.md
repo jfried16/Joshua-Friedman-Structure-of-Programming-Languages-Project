@@ -19,7 +19,7 @@ In order to run the program for yourself, follow these steps.
    - g++ (Version: 11.2.0) (installation instructions included in Mingw-w64 instructions)
 
 # Installation
- -  Clone the repo using this link: 
+ -  Clone the repo using this link: https://github.com/jfried16/Joshua-Friedman-Structure-of-Programming-Languages-Project.git
  
 # To Run the Code for Yourself
 1. Open the folder in Visual studio code by clicking on:
