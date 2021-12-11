@@ -6,7 +6,7 @@ showcase the differences between them. They are: Garbage Collection, Variable Ty
 Garbage Collection is when an automatic process, known as a garbage collector, frees up memory that a program does not reference again.
 
 # Variable Typing
-Depending ont the language varibles can be either dynamically typed or statically typed.
+Depending on the language variables can be either dynamically typed or statically typed.
 
 - Dynamic Typing:
   - Types are assigned at runtime based on what type of value the variable contains. Therefore, types do not need to be explicitly stated. 
