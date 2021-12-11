@@ -21,7 +21,14 @@ In order to run the program for yourself, follow these steps.
  -  Clone the repo using this link: 
  
 # To Run the Code for Yourself
-Open the terminal and input:
+1. Open the folder in Visual Studio Code by clicking on:
+```
+File 
+Open Folder
+Joshua-Friedman-Structure-of-Programming-Languages-Project
+Reverse String Python
+```
+2. To run the code, open the terminal and input:
 ```
 py reversestring.py
 ```
