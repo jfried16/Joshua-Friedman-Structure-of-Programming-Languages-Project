@@ -53,7 +53,7 @@ Variables in C++ are statically typed. Therefore, the typing of each variable is
 
 # Entry Point in C++ 
 The programmer must specify the entry point in a C++ program by defining a main function. This main function will serve as the entry point where the program is given access
-to command line prompts.
+to command line arguments.
 
 # Code Written By
 Joshua Friedman
